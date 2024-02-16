@@ -102,3 +102,10 @@ A setback of four feet from the side and rear lot lines is required for an acces
 ```
 
 #### Conclusion: If we do go with an ADU, the setback seems to be 4 ft, as opposed to 3 ft for an accesory structure
+
+# TBD
+
+ - Incentive for classifying as an ADU?
+ - Do accessory structures add to sq footage of home?
+ - Can you add shower to > 120 sq foot structure without triggering an ADU classification?
+ - What qualifies as a "permanent provision" for cooking? I can cook full meals in a Ninja/Instant Pot. Does a mini fridge qualify or do we need a certain size fridge?
