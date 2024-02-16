@@ -100,3 +100,5 @@ See section h.3) :
 
 A setback of four feet from the side and rear lot lines is required for an accessory dwelling unit that is not an internal conversion and is not constructed in the same location and to the same dimensions as an existing building.
 ```
+
+#### Conclusion: If we do go with an ADU, the setback seems to be 4 ft, as opposed to 3 ft for an accesory structure
