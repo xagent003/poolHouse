@@ -28,6 +28,7 @@ An accessory building or accessory use may occupy not more than thirty percent o
 
 (Prior code § 8117: Ord. 382).
 ```
+#### TBD: Confirm, but a ~250 sq ft structure should most definitely not consume more than 30% of backyard, subtracting pool
 
 ## Setbacks
 ### Street facing setbacks
