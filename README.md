@@ -77,3 +77,26 @@ There shall be a rear yard for any principal structure of at least fifteen feet.
 
 #### Conclusion: 3 ft setback for accesory structure on the rear
 
+## What is an ADU?
+
+Here is the legalese on ADUs: https://library.municode.com/ca/contra_costa_county/codes/ordinance_code?nodeId=TIT8ZO_DIV82GERE_CH82-24ACDWUN
+
+It doesn't seem to imply on any trigger events for an ADU. Meaning, addition of X automatically makes it an ADU. Rather it only seems to imply that qualifying as an ADU has various requirements. For example:
+```
+ (b)
+
+Living Provisions. An accessory dwelling unit must provide complete independent living facilities for one or more persons, including permanent provisions for living, sleeping, eating, cooking, and sanitation.
+
+(c)
+
+Permanent Foundation. A permanent foundation is required for all accessory dwelling units.
+```
+
+### 4 ft Setback for ADUs
+https://library.municode.com/ca/contra_costa_county/codes/ordinance_code?nodeId=TIT8ZO_DIV82GERE_CH82-24ACDWUN_82-24.012DEST
+See section h.3) :
+```
+ (3)
+
+A setback of four feet from the side and rear lot lines is required for an accessory dwelling unit that is not an internal conversion and is not constructed in the same location and to the same dimensions as an existing building.
+```
